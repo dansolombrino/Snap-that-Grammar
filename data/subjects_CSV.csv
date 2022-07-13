@@ -1,0 +1,9 @@
+subject,person,plurality,auxiliary,be_verb
+I,1,S,do,am
+you,2,S,do,are
+he,3,S,does,is
+she,3,S,does,is
+it,3,S,does,is
+we,1,P,do,are
+you,2,P,do,are
+they,3,P,do,are
